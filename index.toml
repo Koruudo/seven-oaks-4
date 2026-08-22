@@ -681,6 +681,11 @@ hash = "9a03163aadaad1808d41abd9140160af4541e3f3cb25394cbdfe632fa1efc3de"
 metafile = true
 
 [[files]]
+file = "mods/fastchunkgen.pw.toml"
+hash = "5f22f31d526ea039f7001aaf6e219f09a525941fec6026c49ffca6eed9312adb"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
