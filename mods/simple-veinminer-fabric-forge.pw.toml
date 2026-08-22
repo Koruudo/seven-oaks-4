@@ -1,0 +1,13 @@
+name = "SmartVein"
+filename = "VeinMinerForge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc2ebcfad298ece7f623e54c1e265dc5996fdcb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8417291
+project-id = 1585633
