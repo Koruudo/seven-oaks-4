@@ -1056,6 +1056,11 @@ hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
 metafile = true
 
 [[files]]
+file = "mods/lucent.pw.toml"
+hash = "145dd3660e1c1fc6c68fdc1ceefa8347992ad72220dc0ebbc87ad1fbecb1e399"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "3435128be37d46d9c18039a8ec4aa9764da4fb39ff4197a4b1090fea0547641b"
 metafile = true
