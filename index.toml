@@ -1316,11 +1316,6 @@ hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
-file = "mods/perfect-graves.pw.toml"
-hash = "7419be0dbade7795d8f9d7d5e6571c935460dcfffbec90e786a60c74b208c3f8"
-metafile = true
-
-[[files]]
 file = "mods/phosphophyllite.pw.toml"
 hash = "bb8b27c977410a8c66eb0f1ea205798d010e4a875e25d9b288e4cb56e8cb0b3d"
 metafile = true
@@ -1813,6 +1808,11 @@ metafile = true
 [[files]]
 file = "mods/you-shall-not-spawn.pw.toml"
 hash = "f3699a05cae526f22f856b78a7fc445fcc62c1c8288efba3c6012f8d766977a3"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-dangers.pw.toml"
+hash = "cc45bbfd9eae6cc6fd9129dbd189a32ce88d2381120ab15c9fdf354d197ebf62"
 metafile = true
 
 [[files]]
