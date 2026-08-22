@@ -1616,6 +1616,11 @@ hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "4b4e10ceb583e3f31efd9180127a8ef8c067271e29747fa0e9aca2de9666ae03"
+metafile = true
+
+[[files]]
 file = "mods/tesseract.pw.toml"
 hash = "0188496a2cffbd5a1aad3fa0429d646487bd685aa2b109c2c649aff675c91a6c"
 metafile = true
