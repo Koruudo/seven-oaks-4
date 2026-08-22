@@ -1,0 +1,13 @@
+name = "BluePAC"
+filename = "bluepac-forge-1.0.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ac359635b95e4ec1c1d30085afd0f4abbb1ff08d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8314752
+project-id = 1489467
