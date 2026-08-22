@@ -591,6 +591,11 @@ hash = "dec6adcd7a2404dc12b0df096820154c5c81fca5dcea69a3ec61ce2776e176b5"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "2e71523bdbd308db8ff2ae5d4a4c3f6cbac7b47c3c6e311c507bb6199d145e96"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "c4bb3e4ea76603fca7b1bf7b7aeebdee6f53d766c90d18de35db9acbc055b196"
 metafile = true
@@ -1471,11 +1476,6 @@ hash = "33634ba89cc41e774d740c99335d32248c60605964dfb4e5d11277922581459c"
 metafile = true
 
 [[files]]
-file = "mods/refined-polymorphism.pw.toml"
-hash = "68a55e82a93a7c080c5799e5abcfebcd65cca78443a7de64f5083f109720734d"
-metafile = true
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
 metafile = true
@@ -1501,6 +1501,11 @@ hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "7c719a21cf8a5c4d51dc6be2f9f07ed8165cf80a37e7a5c616c4d81c8a07eb69"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
@@ -1508,11 +1513,6 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
-metafile = true
-
-[[files]]
-file = "mods/rsinfinitybooster.pw.toml"
-hash = "861149caadb944912e8e5e493736958dc6bab8fefaef065c6c7eabd32e7163c9"
 metafile = true
 
 [[files]]
