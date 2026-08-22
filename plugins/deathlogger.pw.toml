@@ -1,0 +1,13 @@
+name = "Deathlogger"
+filename = "DeathLogger-2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70f036428b2e1cd0cdb787f4d7dee101c43335a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5618801
+project-id = 1071064
