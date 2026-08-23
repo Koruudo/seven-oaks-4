@@ -1501,11 +1501,6 @@ hash = "d9821b8380ffab6096b1e3331a74976c7180094f70a32a0890e73baa18007d83"
 metafile = true
 
 [[files]]
-file = "mods/simple-veinminer-fabric-forge.pw.toml"
-hash = "e1a642bd2ea1d17a2ca96f005cfc46af3b1acd7d71bce9889b50431a86e9bedf"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
@@ -1748,11 +1743,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "310605ccc700e5bdc05c2470da918dc3f7babc23eacfa81937367e461efa2a09"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
