@@ -881,11 +881,6 @@ hash = "f23d2a15fbf156b95e4e24fc3851cb04075fed5c318dfcd650d2a03107c6c23d"
 metafile = true
 
 [[files]]
-file = "mods/inventory-backups.pw.toml"
-hash = "1069a75cf56309f0e43a44b395792c22b0be01171c49cba203cf5add9e1fd18c"
-metafile = true
-
-[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
 metafile = true
