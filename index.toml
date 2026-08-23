@@ -1181,16 +1181,6 @@ hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
-file = "mods/mystical-agradditions.pw.toml"
-hash = "557af60462fd714ead361c411eff8068d8a023ed14c276b904821653155cee99"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "5245bca3c4a2189d7e94b65cccaa38bab453ee7313c4bff210b40fcef787d742"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "19429eeec3e121b064c26f7ac56c83c99b01848f53be9a224488e92cbcb59ce5"
 metafile = true
@@ -1358,11 +1348,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
-metafile = true
-
-[[files]]
-file = "mods/productivebees.pw.toml"
-hash = "08d286c82ca28323437d5dc8c6cc3d38ca6fcf8a66f56cb7e0005b639c90bad7"
 metafile = true
 
 [[files]]
