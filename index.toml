@@ -932,12 +932,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-shared-maps.pw.toml"
-hash = "9d72164cf9cd47c074147e94ab49af3cb6b05cb2095ba34ef54ebdc184ddb1e0"
+hash = "fa015124b3ba1debf1d656b1253e9b609b4168be2964a36ca69b943c203f4f05"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "64ae7b958bf028f77d69ee2106d1f8a31f74a83159bf7446f5280aa07e8ba9eb"
+hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
 metafile = true
 
 [[files]]
