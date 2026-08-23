@@ -931,11 +931,6 @@ hash = "e3ddca64eadea6fe5b4202743d21b57f6d5b186575584602b8381e0c786b4d45"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-shared-maps.pw.toml"
-hash = "fa015124b3ba1debf1d656b1253e9b609b4168be2964a36ca69b943c203f4f05"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
 metafile = true
