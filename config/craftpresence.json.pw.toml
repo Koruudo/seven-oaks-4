@@ -1,0 +1,8 @@
+name = "craftpresence"
+filename = "config/craftpresence.json"
+side = "client"
+
+[download]
+url = "https://raw.githack.com/Koruudo/seven-oaks-4/main/config.client/craftpresence.json"
+hash-format = "sha256"
+hash = "210756d51538a9ae30caab5d0d6b2ee67749e0d0972dc75751aa0f481ddd362b"
