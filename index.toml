@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/craftpresence.json.pw.toml"
-hash = "dded764da710e5ec9d5f7a3d7a16dbb6a65c3319f33add97d461e9131a4b1a2a"
-metafile = true
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true
