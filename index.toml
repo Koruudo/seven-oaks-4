@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config.client/craftpresence.json"
-hash = "210756d51538a9ae30caab5d0d6b2ee67749e0d0972dc75751aa0f481ddd362b"
-
-[[files]]
 file = "config/craftpresence.json.pw.toml"
 hash = "dded764da710e5ec9d5f7a3d7a16dbb6a65c3319f33add97d461e9131a4b1a2a"
 metafile = true
