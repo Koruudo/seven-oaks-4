@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/barista/Info.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/barista/bar.json"
+hash = "11c8bf2235a94678927fd45aedf1324d3cc7fad20c2af80108466c642642a2c0"
+
+[[files]]
+file = "config/barista/icon/icon.ico"
+hash = "0561f72aacfa6d47813614a744b633c204f66f68bd4a5838d84ab89101926b19"
+
+[[files]]
+file = "config/barista/icon/icon.png"
+hash = "230a108b963c7712a4da76d833599f6e13bfd45e2514542f5ed08710873de779"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "9d884624cea39e0fec53095f9f296e97c89268dca5484fb96cbc9a44c1de925c"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "d962a1b6b22f6ab840aad4a4601229de4d4f2f8ac01b36b5fef5a41d05d99efc"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "d0b7e271551e9eb0cf3c3b645cff484001fdefb4909355f3c3ffb424598b120e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "ad1706a360c32ee862803a846fceb38ea9aeb097130f9733f39cc550e6e932aa"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true

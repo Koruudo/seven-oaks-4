@@ -11,7 +11,7 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "1541922915354804305",
+    "clientId": "450485984333660181",
     "defaultIcon": "grass",
     "enableJoinRequests": false,
     "preferredClientLevel": 3,
@@ -108,7 +108,7 @@
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": -1
+    "configKeyCode": 96
   },
   "displaySettings": {
     "presenceData": {
@@ -133,8 +133,7 @@
       "endTimestamp": "",
       "buttons": {}
     },
-    "dynamicIcons": {
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
