@@ -131,6 +131,11 @@ hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
 
 [[files]]
+file = "mods/barista.pw.toml"
+hash = "62ba92012f7942c906dce55d600a694f1f4fbbb94cf5ccd31b45512ff26e82a5"
+metafile = true
+
+[[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "3390dc7b548ed3ad46603c20c2b7ae781c521e199cd197647082c1c7cd21b2f3"
 metafile = true
@@ -1733,11 +1738,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
-metafile = true
-
-[[files]]
-file = "mods/true-window.pw.toml"
-hash = "bf85bf5b3d6a225668d5d0ab7e5e859be9d665019cfb0d879a8cd0eafb79df40"
 metafile = true
 
 [[files]]
