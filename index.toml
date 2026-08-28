@@ -1736,6 +1736,11 @@ hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
+file = "mods/true-window.pw.toml"
+hash = "bf85bf5b3d6a225668d5d0ab7e5e859be9d665019cfb0d879a8cd0eafb79df40"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "6368c2585158f7443cf30188eef5d713ede1e3ec550e152f45f5121e56195c2a"
 metafile = true

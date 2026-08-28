@@ -1,0 +1,13 @@
+name = "True Window"
+filename = "truewindow1.0.1_1.20.1_forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "be11f9d2d7792ab73cf388ac9710530741a60f90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8569238
+project-id = 1607106
