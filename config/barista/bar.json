@@ -12,11 +12,11 @@
     },
     {
       "name": "mods",
-      "display": true
+      "display": false
     },
     {
       "name": "clock",
-      "display": true,
+      "display": false,
       "context": "HH:mm:ss"
     },
     {
@@ -25,63 +25,63 @@
     },
     {
       "name": "day",
-      "display": true
+      "display": false
     },
     {
       "name": "time",
-      "display": true
+      "display": false
     },
     {
       "name": "weather",
-      "display": true
+      "display": false
     },
     {
       "name": "fps",
-      "display": true
+      "display": false
     },
     {
       "name": "ping",
-      "display": true
+      "display": false
     },
     {
       "name": "memory",
-      "display": true
+      "display": false
     },
     {
       "name": "dimension",
-      "display": true
+      "display": false
     },
     {
       "name": "biome",
-      "display": true
+      "display": false
     },
     {
       "name": "position",
-      "display": true
+      "display": false
     },
     {
       "name": "chunk",
-      "display": true
+      "display": false
     },
     {
       "name": "facing",
-      "display": true
+      "display": false
     },
     {
       "name": "looking_at",
-      "display": true
+      "display": false
     },
     {
       "name": "property",
-      "display": true
+      "display": false
     },
     {
       "name": "target",
-      "display": true
+      "display": false
     },
     {
       "name": "target_health",
-      "display": true
+      "display": false
     }
   ]
 }

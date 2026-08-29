@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "11c8bf2235a94678927fd45aedf1324d3cc7fad20c2af80108466c642642a2c0"
+hash = "92f402a00519a2b1236fd7dd388c8897018a94a22b54f2694249758a69565cb6"
 
 [[files]]
 file = "config/barista/icon/icon.ico"
