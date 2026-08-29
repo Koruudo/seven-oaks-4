@@ -17,6 +17,10 @@ file = "config/barista/icon/icon.png"
 hash = "230a108b963c7712a4da76d833599f6e13bfd45e2514542f5ed08710873de779"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "d864f994186b056c603fa23b3ccc943694f627f78de6df7b102df95a70c7ea8f"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "9d884624cea39e0fec53095f9f296e97c89268dca5484fb96cbc9a44c1de925c"
 
