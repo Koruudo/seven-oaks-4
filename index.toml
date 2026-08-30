@@ -1253,11 +1253,6 @@ hash = "b1c940eaff3055d8c353db29844fc208c47bbfcf0f713b99d2e1a941c1d7ed39"
 metafile = true
 
 [[files]]
-file = "mods/nomowanderer.pw.toml"
-hash = "0082b13e9e48db325b123941413ddea3dfde2171df6bc847d8e7af3966c236ee"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "1c3d52224f1f174fbcf2c308a70e3c34a736694b626992891404db32cbd69c7e"
 metafile = true
