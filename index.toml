@@ -1303,11 +1303,6 @@ hash = "51bf17db22eee5fb80da0b2efe87b846f1165bafc67a789782c5fd976c406ffa"
 metafile = true
 
 [[files]]
-file = "mods/ore-excavation.pw.toml"
-hash = "36e108f83d88877071ae676a11595d7805a094be94c93d6424c16224aca6cfde"
-metafile = true
-
-[[files]]
 file = "mods/out-of-sight.pw.toml"
 hash = "62ccdeee0367d9010a280d153066bed21d22c917d364e045a2279780cde4dc2a"
 metafile = true
