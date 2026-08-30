@@ -793,11 +793,6 @@ hash = "af138ead9ed4013fab79bd0ebda5cd381c982dd6513e96f13d324a06e374cdd2"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "3e76939f890545ba722d145aee2e44bbac1c658b5e907d9f69d6e8299fe73127"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "3c4d4578eea956ebd9b1d840e8a9f4594b75820274b9323869c5fcd08595d8fa"
 metafile = true
@@ -984,7 +979,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
+hash = "71e12b68d4bdbe3d42682e85c9d206e2616317412436bf030a2ab1cbc9f92c8b"
+metafile = true
+
+[[files]]
+file = "mods/journeypac.pw.toml"
+hash = "1589b027c81b97e9d645f93a5274982cf28f0d67e7c8698f6ef69b3d829a6e59"
 metafile = true
 
 [[files]]
@@ -1280,6 +1280,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "01905832e0cbe05983fb45fd2f353dbf8fbf9b4a27a867e8bc731c0f52090260"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f86bd972b278c413b55ba923b9b390ff435ce104c2c072d2cd09e033c89fe054"
 metafile = true
 
 [[files]]
