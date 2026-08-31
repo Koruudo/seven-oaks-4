@@ -33,6 +33,11 @@ file = "config/defaultoptions/options.txt"
 hash = "ad1706a360c32ee862803a846fceb38ea9aeb097130f9733f39cc550e6e932aa"
 
 [[files]]
+file = "create-numismatics-recipes.pw.toml"
+hash = "1430e597eeca1560e3557689766b9cc08a9de4a78e77d812d4db1cf24c8d8b39"
+metafile = true
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true
@@ -95,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/allthemodium.pw.toml"
 hash = "1b062847fdba7e0854c12acbf80e631367c919fa984fd5acecec3174f5ce3f2e"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
 
 [[files]]
@@ -210,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "ec58995b4ee6e5610447daa2996e46fafd87b25888f072e7593bb3103a26dabc"
+metafile = true
+
+[[files]]
+file = "mods/better-weaponry-better-combat.pw.toml"
+hash = "493176e5445eae1fb89cfdb3327691e1d140a6638c81598bda50ce12c3cba247"
 metafile = true
 
 [[files]]
@@ -520,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "36debf62fcd0100249feb97de9ff0353c2e80dabcebe7f8941091f457000d9c7"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatics-wallets.pw.toml"
+hash = "feb66cc1e6c618b058904d97cdc9918ff9fd88a45e8f8516fcbf4d2601252d5a"
 metafile = true
 
 [[files]]
@@ -853,6 +873,11 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
@@ -893,6 +918,11 @@ hash = "db2eb84013dda063078898d1f87b88f63a909bb7c4cf9a52ec2ebc25ffd841d1"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "1310ea6009f64beea04eba6d938f01aeedb951a778cb087ae1fe3718b541552b"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "ca9816a65c0594fa725bf1af05fe4b57497fecad710fadf905a822dbadb0f348"
 metafile = true
@@ -900,6 +930,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "8144c6f823114a3ec18c520a7fba1bdeaecec846b89e08e276b310933352c102"
+metafile = true
+
+[[files]]
+file = "mods/ingenium-api.pw.toml"
+hash = "4bb2df430f01e3c3f26546d4f360aae7644c9656e2b4f9c53d4e0f4c73f98e24"
 metafile = true
 
 [[files]]
@@ -1498,6 +1533,11 @@ hash = "7b74687503a817ae7e7a8145996f0a09ddab38933af1e244b324083aeed2fa16"
 metafile = true
 
 [[files]]
+file = "mods/shippy-ships.pw.toml"
+hash = "f87eb410e1387f99c1a993191d6e20767c00c0d6044c1da4b1ed50a2e9592da9"
+metafile = true
+
+[[files]]
 file = "mods/shrink_.pw.toml"
 hash = "bb499bb2efd030f7d1487359492bf1877a799ca009d76a8d8b3c3f89fe0ae8c8"
 metafile = true
@@ -1688,6 +1728,11 @@ hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
 metafile = true
 
 [[files]]
+file = "mods/timeline.pw.toml"
+hash = "5187b8108a86fb832fe144cabd4fabd8e71f6166863a5ead276fd9c0df9c9f99"
+metafile = true
+
+[[files]]
 file = "mods/tinker-and-better-combat.pw.toml"
 hash = "ae964462914269638b6297d88658c3b1a101e5cf595ee38f9221116855672ac0"
 metafile = true
@@ -1820,6 +1865,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
 
 [[files]]

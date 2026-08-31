@@ -1,0 +1,13 @@
+name = "Ingenium API"
+filename = "ingeniumapi-1.0.1-FORGE-MC-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd4ae2442426ccc458096219dfb971e67cfd76c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8515597
+project-id = 1609990
