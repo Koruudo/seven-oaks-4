@@ -613,11 +613,6 @@ hash = "0586cb99a9ea54850b9a498896c51e71242121595e2e6b1cd821ec41fee013b3"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "d8f52da66536863a24f44cc7c6b9c8c9000d67e75c566f87d1b42e3842af1f32"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "4dd29a42972a5ab03609a0ee76156f005f7a7d3bd332bcdf57b25edd9e1310f9"
 metafile = true
