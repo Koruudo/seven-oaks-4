@@ -1,6 +1,6 @@
 # Ignore the specific mods backup folder
 mods.bak/
-backups/
+backups/*
 
 # Ignore any other backup variations
 *.bak
