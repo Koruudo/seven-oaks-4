@@ -648,11 +648,6 @@ hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
 metafile = true
 
 [[files]]
-file = "mods/domum-ornamentum-bluemap-integration.pw.toml"
-hash = "a1ff680dcef9195f8b3f53f41e6cffcf2fdd5ce026fa88d363824555d4b5af8e"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "09d1ec8d202d90e6146086e107aefcd892f17fc3a4d98311c8b5e54845da4ef7"
 metafile = true
