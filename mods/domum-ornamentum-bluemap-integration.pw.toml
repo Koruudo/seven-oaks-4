@@ -1,0 +1,13 @@
+name = "Domum Ornamentum - BlueMap Integration"
+filename = "domumornamentumbluemap-1.1.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "8dc07c812ec628a07ddd975ad2c18ee440cc156c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7063389
+project-id = 1337173
