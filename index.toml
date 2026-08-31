@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "backups/journeymap.pw.toml"
-hash = "29b6c4af8bb7715a50aea93dd91966a71e66acad859afc65ec77a6a5099bc88f"
-metafile = true
-
-[[files]]
 file = "config/barista/Info.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
