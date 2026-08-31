@@ -223,11 +223,6 @@ hash = "ec58995b4ee6e5610447daa2996e46fafd87b25888f072e7593bb3103a26dabc"
 metafile = true
 
 [[files]]
-file = "mods/better-weaponry-better-combat.pw.toml"
-hash = "493176e5445eae1fb89cfdb3327691e1d140a6638c81598bda50ce12c3cba247"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
@@ -933,8 +928,8 @@ hash = "8144c6f823114a3ec18c520a7fba1bdeaecec846b89e08e276b310933352c102"
 metafile = true
 
 [[files]]
-file = "mods/ingenium-api.pw.toml"
-hash = "4bb2df430f01e3c3f26546d4f360aae7644c9656e2b4f9c53d4e0f4c73f98e24"
+file = "mods/ingeniumapi.pw.toml"
+hash = "a2b7fdb33b2bd50fbafcd7bf0c3f9f595726ffcfe1682648c4a975e2d020af13"
 metafile = true
 
 [[files]]
@@ -1534,7 +1529,7 @@ metafile = true
 
 [[files]]
 file = "mods/shippy-ships.pw.toml"
-hash = "f87eb410e1387f99c1a993191d6e20767c00c0d6044c1da4b1ed50a2e9592da9"
+hash = "b6e85d2eacc57026e58e14c0aa207c8e46e99e51a97573181c7eb8f55e318f04"
 metafile = true
 
 [[files]]
