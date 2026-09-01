@@ -1882,6 +1882,11 @@ hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "706111c936da3bada3bd76b69f2faa1017454aaa8d20c657df53896382a7ba65"
+metafile = true
+
+[[files]]
 file = "mods/xnet-gases.pw.toml"
 hash = "9f18bc9516e9075b80cd9dd299faa87a92dc64dd03cc83609e31374857c2487e"
 metafile = true
