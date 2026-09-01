@@ -1,0 +1,13 @@
+name = "Extra Bounties"
+filename = "ExtraBounties-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5XH5uKvv/versions/N1flIxoc/ExtraBounties-universal.jar"
+hash-format = "sha512"
+hash = "12b4b927db91d9898f936fe06c673149278acd30a252f69133fc6a7505708b3d4b85cbca031f06a4c6db9296dfde7e00c48f26ca4ad39731b91cd100bb7a70c3"
+
+[update]
+[update.modrinth]
+mod-id = "5XH5uKvv"
+version = "N1flIxoc"

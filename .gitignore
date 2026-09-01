@@ -5,3 +5,6 @@ backups/*
 # Ignore any other backup variations
 *.bak
 *.old
+
+# Ignore file-types
+*.sh

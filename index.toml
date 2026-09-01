@@ -17,6 +17,10 @@ file = "config/barista/icon/icon.png"
 hash = "230a108b963c7712a4da76d833599f6e13bfd45e2514542f5ed08710873de779"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "389af9989f713b76b37691d2e0b1e3fbaa85b92de8c4983ebf5dc3d05496795f"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "9d884624cea39e0fec53095f9f296e97c89268dca5484fb96cbc9a44c1de925c"
 
@@ -283,6 +287,11 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "b317b19055dd6bb83ad65a3dc937fd69eb458e5cc265c023a7de0ac6d39bbef0"
+metafile = true
+
+[[files]]
 file = "mods/buildersaddition.pw.toml"
 hash = "0938d0e86ff900e0a21ceb6e78b807d53d22a5555e9f377bd1065a0bd3024e72"
 metafile = true
@@ -533,11 +542,6 @@ hash = "36debf62fcd0100249feb97de9ff0353c2e80dabcebe7f8941091f457000d9c7"
 metafile = true
 
 [[files]]
-file = "mods/create-numismatics-wallets.pw.toml"
-hash = "feb66cc1e6c618b058904d97cdc9918ff9fd88a45e8f8516fcbf4d2601252d5a"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "51c14b5b61109fee1c9d3c04b6bd91b45a641d32435811d88dccffae0fd03d60"
 metafile = true
@@ -720,6 +724,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0db85b53cd32bb1d23c33273deaef58bd0f0429a180d171e3f02fe0ab86b0fe2"
+metafile = true
+
+[[files]]
+file = "mods/extra-bounties.pw.toml"
+hash = "12342307599d368dceb7e7fdf75210798d35783cac0f26e26b740869fcd8f665"
 metafile = true
 
 [[files]]
@@ -999,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "799f71e5605fc043d9b286889e9810b0596a3f7bb75fd2388adc6ed3a66a1cb4"
+hash = "facb584eb3ea1af1fe61eb3cd5d88f68069d4293b3c1a7747dca208206601785"
 metafile = true
 
 [[files]]
@@ -1043,6 +1052,11 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "c87302d1a4dc50b28115cd591dd32f751a0b9ca880f20658d2e537cb117a7df8"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "c1f97c0f326711cadc34848ee8bcbe98cc0abfb397d7356e9f82fc35835a65ef"
 metafile = true
@@ -1054,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -1189,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f44c7f5d279e63de078ad86149b8291303f3eb0c4f1db17aa0ac2f02e41a6233"
+hash = "032c863a26e07eefa5953c7c9a8ffe3f53af5fa32372ed6169269cbf7a6f9dde"
 metafile = true
 
 [[files]]
@@ -1209,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "07baf15b51208bf55b817db71d228e2d54ba59b92a125e06206fb8f4b9a37a5b"
+hash = "5996e886bd284d7a20287355ab42a7f5df7f6cce90fe74b04223cd55a4fd6c5d"
 metafile = true
 
 [[files]]
@@ -1293,8 +1307,13 @@ hash = "2644d6a7f1b4326fc7bee43f7478c13d2a74197be08123d82b4c3f3d1d3b0014"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "f3bf5bbb86666b59638030e29faa133f311fbb01d46dc43e6c65b2e58a1c25dc"
+file = "mods/numismatic-bounties.pw.toml"
+hash = "7e064eaaa283817c1f32d1ee321ade053fc18336e9afd5b967c96965c02e5f58"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul-reforged-again.pw.toml"
+hash = "5237cc32eaee442c3d93595f2a6d1a4039cf7fc71c03a7a2e50cd4b06619bd3c"
 metafile = true
 
 [[files]]
@@ -1563,11 +1582,6 @@ hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "158a22cc3cfbc47b52500a75176b77fb8b1e8aef743f122ef3ec4078db13e66c"
 metafile = true
@@ -1634,7 +1648,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "eadd756e9329cb2b2625e48dd98271130448a58014003f3d509d5fe54cbcae2e"
+hash = "0b2af62a61237715b778b732b8eceee08d54b50192bc86bafe2d33a7a346adde"
 metafile = true
 
 [[files]]
@@ -1684,7 +1698,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "d4a176b8a286f6139acb5793a50b38f80d8060d2edf553e5be55d9435f9a5366"
+hash = "006c837c35aabb71dd4c787a1ca4b2a4df368a1fc1db8c652797bc1dcf2ced38"
 metafile = true
 
 [[files]]
