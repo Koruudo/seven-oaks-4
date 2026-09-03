@@ -30,11 +30,11 @@ hash = "d962a1b6b22f6ab840aad4a4601229de4d4f2f8ac01b36b5fef5a41d05d99efc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d0b7e271551e9eb0cf3c3b645cff484001fdefb4909355f3c3ffb424598b120e"
+hash = "542e46a5753be4c31857a256379d0de56c0f056da2f4e44a417c41eee28304a2"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ad1706a360c32ee862803a846fceb38ea9aeb097130f9733f39cc550e6e932aa"
+hash = "6e99ebdeeb69a285c507f93227b335f4e35c91d155f9bf1dad64f26b813dfb34"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -764,11 +764,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
-metafile = true
-
-[[files]]
-file = "mods/flan-forge.pw.toml"
-hash = "7e5eda79610757005f0f1c905d5bf598c67e91da0ecc1ff14df48097cfd37092"
 metafile = true
 
 [[files]]
@@ -1819,6 +1814,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "310605ccc700e5bdc05c2470da918dc3f7babc23eacfa81937367e461efa2a09"
+metafile = true
+
+[[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "8bfdacbab194bf5476983b400b3525e93c9eeceb4b0c4c55ae16d9b2fc27425f"
 metafile = true
 
 [[files]]
