@@ -1,13 +1,13 @@
 name = "Integrated Dynamics"
-filename = "IntegratedDynamics-1.20.1-1.31.0.jar"
+filename = "IntegratedDynamics-1.20.1-1.31.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5c9c4dc20d0e1e156579f87e0b30dc2009a4c41"
+hash = "026e40fe603bec3dcd8b5c10b13fa2df1c3c5c06"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8725844
+file-id = 8859854
 project-id = 236307

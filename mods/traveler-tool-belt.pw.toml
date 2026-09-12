@@ -1,13 +1,13 @@
 name = "Traveler Tool Belt"
-filename = "travelertoolbelt-forge-1.20.1-1.0.4.jar"
+filename = "travelertoolbelt-forge-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d31af75d574758c5c63032599523db1a1fc8f25d"
+hash = "f01d9a48d22a6c8f8170421cd16f1d687d4282d9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8170021
+file-id = 8807227
 project-id = 1457447
