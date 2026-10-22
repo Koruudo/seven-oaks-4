@@ -1,13 +1,13 @@
 name = "Mekanism Turrets & Fences"
-filename = "mekanism_turrets-1.3.3.jar"
+filename = "mekanism_turrets-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a25c8be609ef4d41c4773efc1f8d95724efb7b30"
+hash = "a728a359281b6a7d9cbde3e1615e67d181c8361f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8071992
+file-id = 9251285
 project-id = 1031448

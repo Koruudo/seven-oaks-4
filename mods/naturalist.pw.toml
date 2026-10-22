@@ -1,13 +1,13 @@
-name = "Naturalist Lite"
-filename = "naturalist-5.0pre5+forge-1.20.1.jar"
+name = "Naturalist"
+filename = "naturalist-2.0.8-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bc2c527dd52a1e6a92a3e34db1a88742e8e7d596"
+hash = "c1d437ecb32275cbe04e2c58f7b9b39b311be832"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6863943
+file-id = 9281883
 project-id = 627986
