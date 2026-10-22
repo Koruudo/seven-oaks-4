@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "4efc36649682248e891dd8f1f84ed6f1d8c79ee182791f61a7d678c85aba96c4"
+hash = "52bbbec303ddcf8b497432a902300299806f64e11ed9366b0787447d3c6e86ab"
 metafile = true
 
 [[files]]
