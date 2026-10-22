@@ -1,13 +1,13 @@
 name = "Shippy Ships"
-filename = "shippy_ships-201.25.1-FORGE.jar"
+filename = "shippy_ships-1.0.17.5-FORGE-MC-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oxBNHOmi/versions/diWNTHFc/shippy_ships-201.25.1-FORGE.jar"
+url = "https://cdn.modrinth.com/data/oxBNHOmi/versions/XrkjRRyT/shippy_ships-1.0.17.5-FORGE-MC-1.20.1.jar"
 hash-format = "sha512"
-hash = "ead281a47c45c198a7cca748574d7247c4b3f6903d245e4ee72f871accb64ebcd2c680c9a714a5ddb9882af8f7faf3104bcc2dedc98d7768f64bc07c3ed3ec61"
+hash = "e8f77f943f8228f00f2f957139c885f55c3083e0cb39919fab66866eb62096953be2737a595b01069e486fde7545c92a24b92304ef15b5d4b825a0d5a8e21bea"
 
 [update]
 [update.modrinth]
 mod-id = "oxBNHOmi"
-version = "diWNTHFc"
+version = "XrkjRRyT"
