@@ -1932,11 +1932,6 @@ hash = "f3699a05cae526f22f856b78a7fc445fcc62c1c8288efba3c6012f8d766977a3"
 metafile = true
 
 [[files]]
-file = "mods/youre-in-grave-dangers.pw.toml"
-hash = "cc45bbfd9eae6cc6fd9129dbd189a32ce88d2381120ab15c9fdf354d197ebf62"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
 metafile = true
